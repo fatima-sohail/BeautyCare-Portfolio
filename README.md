@@ -43,6 +43,14 @@ It does not include actual product manufacturing, inventory management, marketin
 beauty-product website.
 
 
+## Product Structure
+
+The product is organized into three primary epics:
+
+### Skincare
+
+Focuses on helping customers find products based on their skin type and skincare concerns.
+
 
 [Open the Project Workbook](data/README.md)
 
