@@ -1,55 +1,73 @@
-# BeautyCare-Portfolio
-Agile project management for beauty product lines: Skincare, Haircare and Makeup. Includes epics, user stories, estimates and sprint planning.
-
-Note to self: How I created GitHub repo and cloned it in my local IntelliJ?
-Goal: Easier to edit the file locally.
-
+# Beauty Product Management Portfolio
 ## Project Overview
-This project demonstrates the application of **Agile Scrum principles** to the product management of beauty products across three product lines:
+This is a personal Agile scrum project about planning beauty product features.
 
-- **Skincare**
-- **Haircare**
-- **Makeup**
+The project covers three beauty areas:
 
-The project focuses on managing product sourcing, inventory and delivery while ensuring product quality and timely availability.
+- Skincare
+- Haircare
+- Makeup
 
-The project is managed using **Asana** and **Microsoft Excel** is used to develop and analyze the Product Backlog, Sprint Backlogs, estimates, value prioritization and sprint comparisons.
+The goal is to show how customer needs can be turned into user stories, prioritized by value, 
+estimated with story points and planned across two sprints.
 
----
-# Project Scope
+## Project Goal
+This project demonstrates how Agile Scrum practices can be used to plan and prioritize beauty 
+product discovery features that help customers find products based on their needs. The features
+are prioritized based on customer and business value, as well as estimated effort.
 
-## Goal
+The project focuses on product management and Agile planning rather than building an actual website,
+manufacturing beauty products, managing inventory or marketing products.
 
-The goal of this project is to manage the sourcing, inventory and delivery of beauty product lines across **Skincare, Haircare and Makeup** while ensuring quality and timely availability.
+## Project Deliverables
 
-## Deliverables
-
-The project includes:
+This project includes:
 
 - A prioritized **Product Backlog**
-- Customer **Personas**
-- **User Stories** for each product line
-- **Acceptance Criteria** for each user story
-- Story **Value** and **Story points OR Estimates**
-- **Two Sprint Backlogs**
-- Sprint planning and prioritization
-- Sprint comparison based on business and customer value
+- **Epics**
+- Customer **personas**
+- **User stories** for Skincare, Haircare, and Makeup
+- **Acceptance criteria** for each user story
+- Business and customer **value ratings**
+- **Story points**
+- 2 **Sprint backlogs**
+- Backlog prioritization and sprint planning
+- An Asana Board and Dashboard
 - Sprint Review documentation
-- Sprint Retrospective documentation
+- Sprint Retrospective documentation and whiteboards
+- Lessons learned from planning and tracking the project
 
 ## Scope Boundaries
 
-The project focuses on **product management** rather than the actual manufacturing or marketing of beauty products.
+It does not include actual product manufacturing, inventory management, marketing campaigns or a live 
+beauty-product website.
 
-The project follows the **Agile Scrum framework** and demonstrates practical Agile practices including:
 
-- User story development
-- Backlog refinement
-- Value prioritization
-- Story estimation
-- Sprint planning
-- Incremental delivery
-- Sprint reviews
-- Retrospectives
 
----
+[Open the Project Workbook](data/README.md)
+
+## Repository Structure
+
+```text
+BeautyCare-Portfolio/
+│
+├── README.md
+│
+├── data/
+│   └── README.md
+│
+├── docs/
+│   ├── sprint-1-plan.md
+│   ├── sprint-2-plan.md
+│   ├── sprint-review-retrospective.md
+│   ├── sprint-retrospective-email-template.md
+│   └── lessons-learned.md
+│
+└── images/
+    ├── google-sheets-product-backlog.png
+    ├── asana-board.jpg
+    ├── asana-dashboard.jpg
+    ├── sprint-1-retrospective-whiteboard-1.png
+    ├── sprint-1-retrospective-whiteboard-2.png
+    └── sprint-1-retrospective-whiteboard-3.png
+```
