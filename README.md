@@ -51,6 +51,10 @@ The product is organized into three primary epics:
 
 Focuses on helping customers find products based on their skin type and skincare concerns.
 
+### Haircare
+
+Focuses on helping customers find products for needs such as frizz control and color-treated hair.
+
 
 [Open the Project Workbook](data/README.md)
 
