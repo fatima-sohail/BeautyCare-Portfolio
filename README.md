@@ -55,6 +55,21 @@ Focuses on helping customers find products based on their skin type and skincare
 
 Focuses on helping customers find products for needs such as frizz control and color-treated hair.
 
+### Makeup
+
+Focuses on helping customers find makeup products based on their skin needs, experience level
+and preferences.
+
+## Customer Personas
+
+| Persona | Product Area | Main Need |
+|---|---|---|
+| Emma – Busy Working Mom | Skincare | Find a simple skincare routine for dry skin |
+| Sophia – Targeted Care | Skincare | Find products for specific skincare concerns |
+| Alex – Tour Guide | Haircare | Find products that help control frizz in humid weather |
+| Jordan – Frequent Colorist | Haircare | Find products suitable for color-treated hair |
+| Olivia – Makeup Enthusiast | Makeup | Find foundations suitable for oily skin |
+| Mia – Makeup Newbie | Makeup | Find easy makeup product suggestions |
 
 [Open the Project Workbook](data/README.md)
 
