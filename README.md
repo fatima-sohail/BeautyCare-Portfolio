@@ -71,6 +71,20 @@ and preferences.
 | Olivia – Makeup Enthusiast | Makeup | Find foundations suitable for oily skin |
 | Mia – Makeup Newbie | Makeup | Find easy makeup product suggestions |
 
+## Example User Story
+
+### Skin Concern Selection
+
+> As a customer with specific skincare concerns, I want to select skincare products based on my
+> skin needs so that I can quickly find products that are relevant to my skincare goals.
+
+**Acceptance Criteria:**
+
+1. Customer can select one or more specific skin concerns.
+2. Customer receives product recommendations based on the selected concerns.
+3. Each recommended product includes a brief explanation of how it supports the selected skin concern.
+4. Customer can filter or refine results based on their needs.
+
 [Open the Project Workbook](data/README.md)
 
 ## Repository Structure
