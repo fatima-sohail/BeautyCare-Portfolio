@@ -11,6 +11,8 @@ The project covers three beauty areas:
 The goal is to show how customer needs can be turned into user stories, prioritized by value, 
 estimated with story points and planned across two sprints.
 
+> **Note:** See [Repository Setup](project-docs/0.repository-setup.md) for details on how this portfolio repository was organized, created, and maintained using IntelliJ IDEA, GitHub Desktop, and GitHub.
+
 ## Project Goal
 This project demonstrates how Agile Scrum practices can be used to plan and prioritize beauty 
 product discovery features that help customers find products based on their needs. The features
