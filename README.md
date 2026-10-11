@@ -17,6 +17,12 @@ estimated with story points and planned across two sprints.
 
 This project was inspired by my experience supporting customers in a beauty retail environment.
 
+Through hundreds of one-on-one client consultations, I observed common customer challenges, including feeling overwhelmed by product choices, identifying products for specific skin concerns, and understanding how to pair products into a simple routine.
+
+I designed this Agile project to translate those in-store customer interactions into potential digital product-discovery features. The personas, user stories, and acceptance criteria explore how an e-commerce experience could help customers find relevant beauty products more easily.
+
+This is a portfolio and planning project. The customer insights are informed by professional retail experience and are not presented as formal customer research or collected customer data.
+
 ## Project Goal
 This project demonstrates how Agile Scrum practices can be used to plan and prioritize beauty 
 product discovery features that help customers find products based on their needs. The features
@@ -102,6 +108,7 @@ Focuses on helping customers find makeup products based on their skin needs, exp
 and preferences.
 
 ## Customer Personas
+The customer personas were informed by common needs observed during beauty consultations and were translated into potential digital product solutions.
 
 | Persona | Product Area | Main Need |
 |---|---|---|
