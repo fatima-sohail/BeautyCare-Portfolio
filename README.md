@@ -13,6 +13,10 @@ estimated with story points and planned across two sprints.
 
 > **Note:** See [Repository Setup](project-docs/0.repository-setup.md) for details on how this portfolio repository was organized, created, and maintained using IntelliJ IDEA, GitHub Desktop, and GitHub.
 
+## Product Motivation & User Insight
+
+This project was inspired by my experience supporting customers in a beauty retail environment.
+
 ## Project Goal
 This project demonstrates how Agile Scrum practices can be used to plan and prioritize beauty 
 product discovery features that help customers find products based on their needs. The features
